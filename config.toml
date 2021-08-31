@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://aswinnarayanan.github.io/docsy/"
 title = "Goldydocs"
 
 enableRobotsTXT = true
